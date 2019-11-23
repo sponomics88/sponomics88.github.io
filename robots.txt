@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://sponomics88.github.io/sitemap.xml
